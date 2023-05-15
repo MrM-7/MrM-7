@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrm-7&label=Profile%20views&color=0e75b6&style=flat" alt="mrm-7" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS**
-
-- 💬 Ask me about **Java, C++, Python, Web Development & Data Structures**
+- 💬 Ask me about **Web Development, MERN, Java, C++, Python & Data Structures**
 
 - 📫 How to reach me **rmmehul7@gmail.com**
 
